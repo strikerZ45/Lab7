@@ -41,5 +41,7 @@
 	width: 20%;
 }
 #sidebar ul {
+	list-style-type: none;
+	text-align: center;
 	
 }
